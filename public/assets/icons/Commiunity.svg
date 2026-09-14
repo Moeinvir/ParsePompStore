@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64" height="64"
+     viewBox="0 0 24 24"
+     fill="none"
+     stroke="#024BCF"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+  <!-- Center user -->
+  <circle cx="12" cy="7" r="3"/>
+  <path d="M7 20v-1a5 5 0 0 1 10 0v1"/>
+
+  <!-- Left user -->
+  <circle cx="5" cy="8" r="2"/>
+  <path d="M2 20v-1a4 4 0 0 1 3-3.8"/>
+
+  <!-- Right user -->
+  <circle cx="19" cy="8" r="2"/>
+  <path d="M22 20v-1a4 4 0 0 0-3-3.8"/>
+</svg>
